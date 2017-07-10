@@ -1,0 +1,6 @@
+Please write a program that takes a basket of items and outputs its total cost.
+
+The basket can contain one or more of the following items: Bananas, Oranges, Apples, Lemons, Peaches"
+
+
+junit.jar is in lib folder in WEB-INF in Web Content for supporting junit annotations
